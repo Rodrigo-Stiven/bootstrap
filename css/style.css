@@ -1,0 +1,58 @@
+body{
+    font: 20px, Arial, sans-serif;
+}
+
+.navbar {
+    background-color: azure;
+}
+
+.nav-item{
+    margin-left: 50px;
+}
+
+.perfil{
+    width : 150px; 
+    height: 150px;
+    margin-left: 30px;
+}
+
+.quemsoueu{
+    background-color:rgb(219, 245, 245);
+    margin-top: 170px;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h3{
+    margin-top: 20px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+.tecnologias{
+    background-color: rgb(247, 238, 228);
+}
+
+.formacao{
+    background-color:azure;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.final{
+    text-align: center;
+    background-color: thistle;
+}
+
+.contato{
+    background-color: rgb(221, 249, 250);
+}
