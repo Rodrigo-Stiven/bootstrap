@@ -1,2 +1,2 @@
 # bootstrap
-Utilizando bootstrap para dar continuidade ao projeto.
+Minha página web para utilizar bootstrap.
